@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+langchain
+langchain_community
+langchain_huggingface
+langchain_google_genai 
+faiss-cpu
+sentence-transformers
+youtube-transcript-api
+tiktoken 
+python-dotenv 
+streamlit
+requests
